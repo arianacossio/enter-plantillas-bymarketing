@@ -54,29 +54,18 @@
         .main-title {
             font-size: 4rem;
             font-weight: 800;
-            margin-bottom: 20px;
-            background: linear-gradient(45deg, #fff, #e0e0ff);
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            text-shadow: 0 4px 20px rgba(255, 255, 255, 0.3);
+            margin-bottom: 30px;
+            color: white;
             letter-spacing: -2px;
         }
 
-        .subtitle {
-            font-size: 1.4rem;
-            font-weight: 400;
-            opacity: 0.9;
-            margin-bottom: 10px;
-            letter-spacing: 0.5px;
-        }
-
-        .description {
-            font-size: 1.1rem;
-            font-weight: 400;
-            opacity: 0.8;
-            max-width: 600px;
-            line-height: 1.6;
+        .hero-image {
+            max-width: 250px;
+            width: 100%;
+            height: auto;
+            margin: 0 auto;
+            display: block;
+            animation: fadeInUp 1.3s ease-out;
         }
 
         .resources-grid {
@@ -263,11 +252,11 @@
         }
 
         .footer {
-            margin-top: 60px;
+            margin-top: 40px;
             text-align: center;
             font-size: 0.9rem;
             opacity: 0.7;
-            animation: fadeInUp 1.4s ease-out;
+            animation: fadeInUp 1.8s ease-out;
         }
 
         @media (max-width: 1200px) {
@@ -289,6 +278,10 @@
             .main-container {
                 padding: 40px 20px;
             }
+
+            .hero-image {
+                max-width: 200px;
+            }
         }
     </style>
 </head>
@@ -302,8 +295,8 @@
 
     <div class="main-container">
         <div class="hero-section">
-            <h1 class="main-title">Plantillas y Recursos</h1>
-            <p class="subtitle">Aquí pueden encontrar la mayoría de recursos xd </p>
+            <h1 class="main-title">Algunos recursos de Marketing para Enter ;)</h1>
+            <img src="https://drive.google.com/uc?export=view&id=1AQCfPHvAQgBMbvQ9kmsPQ1xQblTvN7x-" class="hero-image">
         </div>
 
         <div class="resources-grid">
@@ -411,15 +404,11 @@
                     <a href="https://www.canva.com/design/DAGquDebgBM/H0Bw9JxL1dE1xHkwRBkZWA/edit" class="resource-link" target="_blank">
                         <span class="link-icon">🏆</span>
                         Ranking
-                        </a>
+                    </a>
                 </div>
             </div>
         </div>
-        
-<img src="https://storage.ko-fi.com/cdn/useruploads/post/1a1df9e4-fc8e-46dc-8363-ec552c800e84_whatsappimage2025-06-06at3.22.38am.jpeg" 
-     alt="Enter Tech School" 
-     class="ko-fi-image">
-        </div>
+
         <div class="footer">
             <p>💜 Enter Tech School - Esa gente, hablen pes</p>
         </div>
