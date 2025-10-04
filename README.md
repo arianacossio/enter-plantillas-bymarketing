@@ -304,7 +304,6 @@
         <div class="hero-section">
             <h1 class="main-title">Plantillas y Recursos</h1>
             <p class="subtitle">Aquí pueden encontrar la mayoría de recursos xd </p>
-            <p class="description">Pd. Cualquier edición que se requiera los avanzo diario de 1 a 2 c:.</p>
         </div>
 
         <div class="resources-grid">
