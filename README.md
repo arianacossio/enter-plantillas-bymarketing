@@ -412,11 +412,13 @@
                     <a href="https://www.canva.com/design/DAGquDebgBM/H0Bw9JxL1dE1xHkwRBkZWA/edit" class="resource-link" target="_blank">
                         <span class="link-icon">🏆</span>
                         Ranking
+                        
+<a href="https://ko-fi.com/entertechschool" target="_blank">
+                        <img src="https://storage.ko-fi.com/cdn/useruploads/post/1a1df9e4-fc8e-46dc-8363-ec552c800e84_whatsappimage2025-06-06at3.22.38am.jpeg" alt="Enter Tech School">
                     </a>
                 </div>
             </div>
         </div>
-
         <div class="footer">
             <p>💜 Enter Tech School - Esa gente, hablen pes</p>
         </div>
