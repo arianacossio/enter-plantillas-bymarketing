@@ -298,7 +298,7 @@
         <div class="hero-section">
             <h1 class="main-title">Algunos recursos de Marketing para Enter ;)</h1>
             <img src="https://drive.google.com/uc?export=view&id=1AQCfPHvAQgBMbvQ9kmsPQ1xQblTvN7x-" 
-                 alt="Enter Tech School" 
+                 alt="" 
                  class="header-image">
         </div>
 
