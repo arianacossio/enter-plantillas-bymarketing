@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plantillas y Recursos - Marketing</title>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <img src="https://drive.google.com/uc?export=view&id=1AQCfPHvAQgBMbvQ9kmsPQ1xQblTvN7x-"
     <style>
         * {
             margin: 0;
