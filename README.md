@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plantillas y Recursos - Marketing</title>
-    <img src="https://drive.google.com/uc?export=view&id=1AQCfPHvAQgBMbvQ9kmsPQ1xQblTvN7x-"
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -298,7 +298,7 @@
         <div class="hero-section">
             <h1 class="main-title">Algunos recursos de Marketing para Enter ;)</h1>
             <img src="https://drive.google.com/uc?export=view&id=1AQCfPHvAQgBMbvQ9kmsPQ1xQblTvN7x-" 
-                 alt="" 
+                 alt="Enter Tech School" 
                  class="header-image">
         </div>
 
